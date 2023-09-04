@@ -1,0 +1,13 @@
+class Nnum
+{
+public static void main(String args[])
+{
+	int start=20, end=1,var=0;
+	while(end<=start)
+	{	
+	var=start-var;
+	}
+ 	System.out.println(a);
+
+}
+}
